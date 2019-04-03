@@ -1,8 +1,11 @@
 # first git lesson
 
-<<<<<<< HEAD
+<!-- Hi Dan, the recapitulation is hard as fhell  -->
+
+
+
 console.log("Hello Class");
-=======
+
 Anything!
 bau bau
->>>>>>> de462972007cbda50e55aa9d5f7d82441a6fdfdf
+
