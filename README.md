@@ -1,3 +1,3 @@
-# first git lesson
+# Welcome fellows
 
-Oops!
+Hello! I am the "troller" (o_o)/
