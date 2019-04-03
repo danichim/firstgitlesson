@@ -1,3 +1,3 @@
 # first git lesson
 
-Hello noobs!
+Oops!
