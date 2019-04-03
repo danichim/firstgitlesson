@@ -1,2 +1,2 @@
 # first git lesson
-Blue cheese
+Blue cheese for sale
