@@ -1,3 +1,3 @@
 # first git lesson
 
-Anything?!
+console.log("Hello Class");
